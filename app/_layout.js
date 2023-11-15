@@ -1,5 +1,7 @@
 import { Stack } from 'expo-router'
 
 const Layout = () => {
-  return <typeof Stack />;
+  return < Stack />;
 }
+
+export default Layout;
